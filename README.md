@@ -1,4 +1,7 @@
-<h1 align=center> 🐧 Hello There, I'm siraponte 🐧 </h1>
+<h1 align=center> 
+
+🐧 Hello There, I'm [siraponte](https://github.com/siraponte) 🐧 
+</h1>
 
 <h2 align=center> 
  
@@ -20,11 +23,16 @@
 📚 [42 cursus](https://github.com/siraponte/cursus_42)
 </h3>
 
+<p align="center">
+  <img src="http://badge42.herokuapp.com/api/stats/cserapon?darkmode=true" width="500" />
+</p>
+
 <h2 align=center> 📊 Github stats 📊 </h2>
 
 <p align=center>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=siraponte&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siraponte&show_icons=true&theme=dark" />
 </p>
 
-
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?siraponte=anuraghazra&layout=compact)" />
+</p>
