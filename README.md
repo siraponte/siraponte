@@ -1,5 +1,3 @@
-### Hello there 👋
+<h1> Hello There! 👋👋👋 </h1>
 
-### I'm siraponte
-
-### Student at 42 Roma Luiss
+<h2> I'm siraponte </h2>
