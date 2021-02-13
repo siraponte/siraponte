@@ -7,15 +7,15 @@
 📷 [Intra](https://profile.intra.42.fr/users/cserapon) 
 </h3>
 
-<h4 align=center>
+<h3 align=center>
  
    🏊 [C piscine](https://github.com/siraponte/piscine_c)
-</h4>
+</h3>
 
-<h4 align=center>
+<h3 align=center>
  
 📚 [42 cursus](https://github.com/siraponte/cursus_42)
-</h4>
+</h3>
 
 <h2 align=center> 📊 Github stats 📊 </h2>
 
