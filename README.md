@@ -2,10 +2,10 @@
 
 <h2 align=center> 📚 Student at 42 Roma Luiss 📚 </h2>
 
-<h4 align=center>
+<h3 align=center>
  
 📷 [Intra](https://profile.intra.42.fr/users/cserapon) 
-</h4>
+</h3>
 
 <h4 align=center>
  
