@@ -24,5 +24,5 @@
 </h3>
 
 <p align="center">
-  <img src="http://badge42.herokuapp.com/api/stats/cserapon?darkmode=true" width="500" />
+  <img src="http://badge42.herokuapp.com/api/stats/cserapon?darkmode=false" width="500" />
 </p>
