@@ -15,12 +15,12 @@
 
 <h3 align=center>
  
-   🏊 [C piscine](https://github.com/siraponte/piscine_c)
+   🏊 [C piscine](https://github.com/siraponte/42Roma-C_piscine)
 </h3>
 
 <h3 align=center>
  
-📚 [42 cursus](https://github.com/siraponte/cursus_42)
+📚 [42 cursus](https://github.com/siraponte/42Roma-42cursus)
 </h3>
 
 <p align="center">
