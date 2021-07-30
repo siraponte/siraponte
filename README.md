@@ -20,7 +20,7 @@
 
 <h3 align=center>
  
-📚 [42 cursus](https://github.com/siraponte/42cursus.git)
+📚 [42cursus](https://github.com/siraponte/42cursus.git)
 </h3>
 
 <p align="center">
