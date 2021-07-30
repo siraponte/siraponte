@@ -15,7 +15,7 @@
 
 <h3 align=center>
  
-   🏊 [C piscine](https://github.com/siraponte/C_piscine)
+   🏊 [C Piscine](https://github.com/siraponte/C_Piscine)
 </h3>
 
 <h3 align=center>
