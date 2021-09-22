@@ -8,21 +8,6 @@
 📚 Student at [42 Roma Luiss](https://42roma.it/en/)  📚 
 </h2>
 
-<h3 align=center>
- 
-📷 [Intra](https://profile.intra.42.fr/users/cserapon) 
-</h3>
-
-<h3 align=center>
- 
-   🏊 [C Piscine](https://github.com/siraponte/C_Piscine)
-</h3>
-
-<h3 align=center>
- 
-📚 [42cursus](https://github.com/siraponte/42cursus.git)
-</h3>
-
 <p align="center">
   <img src="http://badge42.herokuapp.com/api/stats/cserapon?darkmode=false" width="500" />
 </p>
