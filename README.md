@@ -7,7 +7,3 @@
  
 📚 Student at [42 Roma Luiss](https://42roma.it/en/)
 </h2>
-
-<p align="center">
-  <img src="http://badge42.herokuapp.com/api/stats/cserapon?darkmode=false" width="500" />
-</p>
